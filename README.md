@@ -3,7 +3,7 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laryssa-ferres&show_icons=true&theme=radical)
 <br>
-#tecnologias que conheço
+# tecnologias que conheço
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
