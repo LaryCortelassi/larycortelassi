@@ -1,4 +1,4 @@
-# Olá , eu sou a laryssa ferres 
+# Olá , eu sou a Lary Cortelassi 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-cortelassi-16359a242/)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laryssa-ferres&show_icons=true&theme=radical)
